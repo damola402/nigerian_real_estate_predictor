@@ -121,8 +121,3 @@ Location and property type carry real predictive signal, but a lot of price
 variation (finishing quality, exact plot, negotiation) simply isn't captured
 by this dataset.
 
-## Presentation split (7 people)
-
-Matches the structure in the brief — Introduction / Dataset / Cleaning / EDA
-/ ML / Streamlit / Conclusion. Everyone should still be able to explain the
-whole pipeline, since grading allows cross-questioning on any section.
